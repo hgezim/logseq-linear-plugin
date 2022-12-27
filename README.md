@@ -20,3 +20,7 @@ A utility to link your Linear.app issues with Logseq using the Linear issue id.
 ### License
 
 [MIT](./LICENSE)
+
+### Shoutout
+
+- I referenced this plugin when building: [https://github.com/sawhney17/logseq-twitter-extractor](https://github.com/sawhney17/logseq-twitter-extractor)
