@@ -1,7 +1,7 @@
 {
   "name": "logseq-linear-plugin",
   "version": "0.0.1",
-  "author": "©Logseq Team",
+  "author": "Gezim Hoxha",
   "description": "Logseq pugin that integrates with Linear. It allows you to get issue data from an id into Logseq",
   "license": "MIT",
   "devDependencies": {
