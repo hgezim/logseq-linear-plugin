@@ -1,0 +1,31 @@
+{
+  "name": "logseq-linear-plugin",
+  "version": "0.0.1",
+  "author": "©Logseq Team",
+  "description": "Logseq pugin that integrates with Linear. It allows you to get issue data from an id into Logseq",
+  "license": "MIT",
+  "devDependencies": {
+    "@logseq/libs": "^0.0.1-alpha.29",
+    "typescript": "^4.9.3",
+    "vite": "^4.0.0"
+  },
+  "browserslist": [
+    "chrome 80"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "logseq": {
+    "id": "_edodwdeonfur",
+    "icon": "linear-icon.png"
+  },
+  "main": "dist/index.umd.js",
+  "targets": {
+    "main": false
+  },
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
+}
