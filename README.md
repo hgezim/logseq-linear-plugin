@@ -9,7 +9,12 @@ A utility to link your Linear.app issues with Logseq using the Linear issue id.
 1. Install the plugin.
 2. Go to the plugin Settings
 3. Enter your Linear.app API key
-4. In a block enter some text and then a Linear.app issue id:
+   ```json
+   {
+     "LinearAPIKey": "lin_api_XXXXXXXX"
+   }
+   ```
+5. In a block enter some text and then a Linear.app issue id:
 
 ```
 - Dear diary,
